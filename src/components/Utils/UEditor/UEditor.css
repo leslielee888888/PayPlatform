@@ -1,0 +1,7 @@
+.ueditor{
+  position:relative;
+  line-height:1;
+}
+.ueditor img{
+  max-width: 100%;
+}

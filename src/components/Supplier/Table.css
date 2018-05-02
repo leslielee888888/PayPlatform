@@ -1,0 +1,14 @@
+.box{
+    padding:10px;
+}
+.pagination{
+    text-align: center;
+    padding:10px;
+}
+.editable-row-text {
+    padding: 5px;
+}
+
+.editable-row-operations_save {
+    margin-right:8px;
+}

@@ -1,0 +1,7 @@
+.Tabs-Row{
+    border-bottom:1px solid #eee;
+    padding:10px 0;
+}
+.Tabs-Row:last-child{
+    border-bottom:none;
+}

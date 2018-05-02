@@ -1,0 +1,4 @@
+:global(.ant-menu-submenu-vertical span) .text{
+    opacity:0;
+    visibility: hidden;
+}

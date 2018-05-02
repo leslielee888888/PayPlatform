@@ -1,0 +1,7 @@
+.Card-Row{
+    border-bottom:1px solid #eee;
+    padding:10px 0;
+}
+.Card-Row:last-child{
+    border-bottom:none;
+}

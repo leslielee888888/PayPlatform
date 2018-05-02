@@ -1,0 +1,10 @@
+:global(.Breadcrumb-Box){
+    padding:10px;
+    background: #eeeeee;
+}
+:global(.Content-Box){
+    padding:0 10px 10px;
+}
+:global(*){
+    font-family: "Microsoft YaHei";
+}

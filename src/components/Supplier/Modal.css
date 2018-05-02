@@ -1,0 +1,29 @@
+.avatar-uploader, .avatar-uploader-trigger, .avatar {
+    width: 150px;
+    height: 150px;
+}
+
+.avatar-uploader {
+    display: block;
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+.avatar-uploader-trigger {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 28px;
+    color: #999;
+}
+
+:global(.ant-form-item-control.has-error) .avatar-uploader {
+    border: 1px dashed #f04134;
+}
+:global(.ant-form-item-control.has-success) .avatar-uploader {
+    border: none;
+}
+:global(.ant-form-item-control.has-error) .avatar-uploader-trigger {
+    color: #f04134;
+}
